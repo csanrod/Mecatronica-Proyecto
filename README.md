@@ -7,4 +7,4 @@ Toda la información sobre el proyecto quedará reflejada en la [wiki](https://g
 ## Contributors
 - [Benjamín Pilo](https://github.com/benjapm) 
 - [Carlos Iglesias](https://github.com/ciglesias1995) 
-- [Cristian Sánchez](https://github.com/csanrod).
+- [Cristian Sánchez](https://github.com/csanrod)
